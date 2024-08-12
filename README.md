@@ -15,7 +15,7 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/facebook-delete.git
+    git clone [https://github.com/your-username/facebook-delete.git](https://github.com/PhuyalGaurav/facebook-delete-script)
     ```
 
 2. Navigate to the project directory:
